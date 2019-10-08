@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\CodesonVisualStudioCode\bin\Debug\netcoreapp2.2\CodesonVisualStudioCode.deps.json
+C:\Users\Admin\Desktop\CodesonVisualStudioCode\bin\Debug\netcoreapp2.2\CodesonVisualStudioCode.runtimeconfig.json
+C:\Users\Admin\Desktop\CodesonVisualStudioCode\bin\Debug\netcoreapp2.2\CodesonVisualStudioCode.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\CodesonVisualStudioCode\bin\Debug\netcoreapp2.2\CodesonVisualStudioCode.dll
+C:\Users\Admin\Desktop\CodesonVisualStudioCode\bin\Debug\netcoreapp2.2\CodesonVisualStudioCode.pdb
+C:\Users\Admin\Desktop\CodesonVisualStudioCode\obj\Debug\netcoreapp2.2\CodesonVisualStudioCode.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\CodesonVisualStudioCode\obj\Debug\netcoreapp2.2\CodesonVisualStudioCode.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CodesonVisualStudioCode\obj\Debug\netcoreapp2.2\CodesonVisualStudioCode.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\CodesonVisualStudioCode\obj\Debug\netcoreapp2.2\CodesonVisualStudioCode.AssemblyInfo.cs
+C:\Users\Admin\Desktop\CodesonVisualStudioCode\obj\Debug\netcoreapp2.2\CodesonVisualStudioCode.dll
+C:\Users\Admin\Desktop\CodesonVisualStudioCode\obj\Debug\netcoreapp2.2\CodesonVisualStudioCode.pdb
