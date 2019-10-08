@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\Teht2\bin\Debug\netcoreapp2.2\Teht2.deps.json
+C:\Users\Admin\Desktop\Teht2\bin\Debug\netcoreapp2.2\Teht2.runtimeconfig.json
+C:\Users\Admin\Desktop\Teht2\bin\Debug\netcoreapp2.2\Teht2.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Teht2\bin\Debug\netcoreapp2.2\Teht2.dll
+C:\Users\Admin\Desktop\Teht2\bin\Debug\netcoreapp2.2\Teht2.pdb
+C:\Users\Admin\Desktop\Teht2\obj\Debug\netcoreapp2.2\Teht2.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Teht2\obj\Debug\netcoreapp2.2\Teht2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Teht2\obj\Debug\netcoreapp2.2\Teht2.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Teht2\obj\Debug\netcoreapp2.2\Teht2.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Teht2\obj\Debug\netcoreapp2.2\Teht2.dll
+C:\Users\Admin\Desktop\Teht2\obj\Debug\netcoreapp2.2\Teht2.pdb
