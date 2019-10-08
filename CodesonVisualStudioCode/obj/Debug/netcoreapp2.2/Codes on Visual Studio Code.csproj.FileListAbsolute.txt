@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\Codes on Visual Studio Code\obj\Debug\netcoreapp2.2\Codes on Visual Studio Code.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Codes on Visual Studio Code\obj\Debug\netcoreapp2.2\Codes on Visual Studio Code.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Codes on Visual Studio Code\obj\Debug\netcoreapp2.2\Codes on Visual Studio Code.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Codes on Visual Studio Code\obj\Debug\netcoreapp2.2\Codes on Visual Studio Code.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Codes on Visual Studio Code\bin\Debug\netcoreapp2.2\Codes on Visual Studio Code.deps.json
+C:\Users\Admin\Desktop\Codes on Visual Studio Code\bin\Debug\netcoreapp2.2\Codes on Visual Studio Code.runtimeconfig.json
+C:\Users\Admin\Desktop\Codes on Visual Studio Code\bin\Debug\netcoreapp2.2\Codes on Visual Studio Code.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Codes on Visual Studio Code\bin\Debug\netcoreapp2.2\Codes on Visual Studio Code.dll
+C:\Users\Admin\Desktop\Codes on Visual Studio Code\bin\Debug\netcoreapp2.2\Codes on Visual Studio Code.pdb
+C:\Users\Admin\Desktop\Codes on Visual Studio Code\obj\Debug\netcoreapp2.2\Codes on Visual Studio Code.dll
+C:\Users\Admin\Desktop\Codes on Visual Studio Code\obj\Debug\netcoreapp2.2\Codes on Visual Studio Code.pdb
