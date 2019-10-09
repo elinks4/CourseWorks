@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\NewProjectTry\bin\Debug\netcoreapp2.2\NewProjectTry.deps.json
+C:\Users\Admin\Desktop\NewProjectTry\bin\Debug\netcoreapp2.2\NewProjectTry.runtimeconfig.json
+C:\Users\Admin\Desktop\NewProjectTry\bin\Debug\netcoreapp2.2\NewProjectTry.runtimeconfig.dev.json
+c:\Users\Admin\Desktop\NewProjectTry\bin\Debug\netcoreapp2.2\NewProjectTry.dll
+c:\Users\Admin\Desktop\NewProjectTry\bin\Debug\netcoreapp2.2\NewProjectTry.pdb
+c:\Users\Admin\Desktop\NewProjectTry\obj\Debug\netcoreapp2.2\NewProjectTry.csprojAssemblyReference.cache
+c:\Users\Admin\Desktop\NewProjectTry\obj\Debug\netcoreapp2.2\NewProjectTry.csproj.CoreCompileInputs.cache
+c:\Users\Admin\Desktop\NewProjectTry\obj\Debug\netcoreapp2.2\NewProjectTry.RazorAssemblyInfo.cache
+c:\Users\Admin\Desktop\NewProjectTry\obj\Debug\netcoreapp2.2\NewProjectTry.RazorAssemblyInfo.cs
+c:\Users\Admin\Desktop\NewProjectTry\obj\Debug\netcoreapp2.2\NewProjectTry.AssemblyInfoInputs.cache
+c:\Users\Admin\Desktop\NewProjectTry\obj\Debug\netcoreapp2.2\NewProjectTry.AssemblyInfo.cs
+c:\Users\Admin\Desktop\NewProjectTry\obj\Debug\netcoreapp2.2\NewProjectTry.RazorTargetAssemblyInfo.cache
+c:\Users\Admin\Desktop\NewProjectTry\obj\Debug\netcoreapp2.2\NewProjectTry.dll
+c:\Users\Admin\Desktop\NewProjectTry\obj\Debug\netcoreapp2.2\NewProjectTry.pdb
